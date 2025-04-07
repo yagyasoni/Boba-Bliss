@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Boba Theme Switcher",
+    "version": "1.0",
+    "description": "Instantly switch Boba-inspired themes on the current tab",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "images/matcha-latte.png",
+                "images/taro-latte.png",
+                "images/brown-sugar-boba.png"
+    
+            ],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}
