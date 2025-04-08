@@ -40,8 +40,7 @@ A Google Chrome extension that allows users to quickly switch between visually a
 
     * Verify that "Boba Theme Switcher" appears in your extension list.
 
-## Credits
-Created by Yagya Soni for **Google Summer of Code (GSoC)** under **Chromium**.
+## Usage
 
 1.  Open a tab to `example.com`.
 2.  Click the Boba Theme Switcher icon in the Chrome toolbar to launch the popup.
@@ -50,3 +49,6 @@ Created by Yagya Soni for **Google Summer of Code (GSoC)** under **Chromium**.
 5.  A status message will confirm successful application (e.g., "Matcha Latte applied!").
 
 **Note:** This extension is intentionally limited to `example.com`. Attempts to apply themes on other domains will have no effect.
+
+## Credits
+Created by Yagya Soni for **Google Summer of Code (GSoC)** under **Chromium**.
