@@ -1,4 +1,4 @@
-# Boba Theme Switcher
+# Boba Theme Switcher (✿◠‿◠)🥤
 
 A Google Chrome extension that allows users to quickly switch between visually appealing themes inspired by boba coffee flavors on a specific website (example.com).
 
@@ -40,7 +40,8 @@ A Google Chrome extension that allows users to quickly switch between visually a
 
     * Verify that "Boba Theme Switcher" appears in your extension list.
 
-## Usage
+## Credits
+Created by Yagya Soni for **Google Summer of Code (GSoC)** under **Chromium**.
 
 1.  Open a tab to `example.com`.
 2.  Click the Boba Theme Switcher icon in the Chrome toolbar to launch the popup.
